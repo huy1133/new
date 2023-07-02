@@ -1,0 +1,8 @@
+D:\c#\new\HienThiLoiChao\bin\Debug\HienThiLoiChao.exe.config
+D:\c#\new\HienThiLoiChao\bin\Debug\HienThiLoiChao.exe
+D:\c#\new\HienThiLoiChao\bin\Debug\HienThiLoiChao.pdb
+D:\c#\new\HienThiLoiChao\obj\Debug\HienThiLoiChao.csproj.AssemblyReference.cache
+D:\c#\new\HienThiLoiChao\obj\Debug\HienThiLoiChao.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\HienThiLoiChao\obj\Debug\HienThiLoiChao.csproj.CoreCompileInputs.cache
+D:\c#\new\HienThiLoiChao\obj\Debug\HienThiLoiChao.exe
+D:\c#\new\HienThiLoiChao\obj\Debug\HienThiLoiChao.pdb
