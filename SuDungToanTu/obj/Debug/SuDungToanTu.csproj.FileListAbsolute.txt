@@ -1,0 +1,8 @@
+D:\c#\new\SuDungToanTu\bin\Debug\SuDungToanTu.exe.config
+D:\c#\new\SuDungToanTu\bin\Debug\SuDungToanTu.exe
+D:\c#\new\SuDungToanTu\bin\Debug\SuDungToanTu.pdb
+D:\c#\new\SuDungToanTu\obj\Debug\SuDungToanTu.csproj.AssemblyReference.cache
+D:\c#\new\SuDungToanTu\obj\Debug\SuDungToanTu.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\SuDungToanTu\obj\Debug\SuDungToanTu.csproj.CoreCompileInputs.cache
+D:\c#\new\SuDungToanTu\obj\Debug\SuDungToanTu.exe
+D:\c#\new\SuDungToanTu\obj\Debug\SuDungToanTu.pdb
