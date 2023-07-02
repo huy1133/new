@@ -1,0 +1,8 @@
+D:\c#\new\systime\bin\Debug\systime.exe.config
+D:\c#\new\systime\bin\Debug\systime.exe
+D:\c#\new\systime\bin\Debug\systime.pdb
+D:\c#\new\systime\obj\Debug\systime.csproj.AssemblyReference.cache
+D:\c#\new\systime\obj\Debug\systime.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\systime\obj\Debug\systime.csproj.CoreCompileInputs.cache
+D:\c#\new\systime\obj\Debug\systime.exe
+D:\c#\new\systime\obj\Debug\systime.pdb

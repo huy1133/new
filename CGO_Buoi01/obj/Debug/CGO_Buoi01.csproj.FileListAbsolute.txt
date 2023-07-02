@@ -1,0 +1,8 @@
+D:\c#\new\CGO_Buoi01\bin\Debug\CGO_Buoi01.exe.config
+D:\c#\new\CGO_Buoi01\bin\Debug\CGO_Buoi01.exe
+D:\c#\new\CGO_Buoi01\bin\Debug\CGO_Buoi01.pdb
+D:\c#\new\CGO_Buoi01\obj\Debug\CGO_Buoi01.csproj.AssemblyReference.cache
+D:\c#\new\CGO_Buoi01\obj\Debug\CGO_Buoi01.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\CGO_Buoi01\obj\Debug\CGO_Buoi01.csproj.CoreCompileInputs.cache
+D:\c#\new\CGO_Buoi01\obj\Debug\CGO_Buoi01.exe
+D:\c#\new\CGO_Buoi01\obj\Debug\CGO_Buoi01.pdb
