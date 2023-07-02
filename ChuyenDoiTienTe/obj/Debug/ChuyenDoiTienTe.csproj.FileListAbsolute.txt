@@ -1,0 +1,8 @@
+D:\c#\new\ChuyenDoiTienTe\bin\Debug\ChuyenDoiTienTe.exe.config
+D:\c#\new\ChuyenDoiTienTe\bin\Debug\ChuyenDoiTienTe.exe
+D:\c#\new\ChuyenDoiTienTe\bin\Debug\ChuyenDoiTienTe.pdb
+D:\c#\new\ChuyenDoiTienTe\obj\Debug\ChuyenDoiTienTe.csproj.AssemblyReference.cache
+D:\c#\new\ChuyenDoiTienTe\obj\Debug\ChuyenDoiTienTe.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\ChuyenDoiTienTe\obj\Debug\ChuyenDoiTienTe.csproj.CoreCompileInputs.cache
+D:\c#\new\ChuyenDoiTienTe\obj\Debug\ChuyenDoiTienTe.exe
+D:\c#\new\ChuyenDoiTienTe\obj\Debug\ChuyenDoiTienTe.pdb
