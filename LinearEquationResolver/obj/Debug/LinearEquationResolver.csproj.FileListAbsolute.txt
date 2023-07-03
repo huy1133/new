@@ -1,0 +1,8 @@
+D:\c#\new\LinearEquationResolver\bin\Debug\LinearEquationResolver.exe.config
+D:\c#\new\LinearEquationResolver\bin\Debug\LinearEquationResolver.exe
+D:\c#\new\LinearEquationResolver\bin\Debug\LinearEquationResolver.pdb
+D:\c#\new\LinearEquationResolver\obj\Debug\LinearEquationResolver.csproj.AssemblyReference.cache
+D:\c#\new\LinearEquationResolver\obj\Debug\LinearEquationResolver.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\LinearEquationResolver\obj\Debug\LinearEquationResolver.csproj.CoreCompileInputs.cache
+D:\c#\new\LinearEquationResolver\obj\Debug\LinearEquationResolver.exe
+D:\c#\new\LinearEquationResolver\obj\Debug\LinearEquationResolver.pdb
