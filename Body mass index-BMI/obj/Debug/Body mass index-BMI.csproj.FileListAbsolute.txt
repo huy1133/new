@@ -1,0 +1,8 @@
+D:\c#\new\Body mass index-BMI\bin\Debug\Body mass index-BMI.exe.config
+D:\c#\new\Body mass index-BMI\bin\Debug\Body mass index-BMI.exe
+D:\c#\new\Body mass index-BMI\bin\Debug\Body mass index-BMI.pdb
+D:\c#\new\Body mass index-BMI\obj\Debug\Body mass index-BMI.csproj.AssemblyReference.cache
+D:\c#\new\Body mass index-BMI\obj\Debug\Body mass index-BMI.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\Body mass index-BMI\obj\Debug\Body mass index-BMI.csproj.CoreCompileInputs.cache
+D:\c#\new\Body mass index-BMI\obj\Debug\Body mass index-BMI.exe
+D:\c#\new\Body mass index-BMI\obj\Debug\Body mass index-BMI.pdb
