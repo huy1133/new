@@ -1,0 +1,8 @@
+D:\c#\new\SinhNhat\obj\Debug\SinhNhat.csproj.AssemblyReference.cache
+D:\c#\new\SinhNhat\obj\Debug\SinhNhat.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\SinhNhat\obj\Debug\SinhNhat.csproj.CoreCompileInputs.cache
+D:\c#\new\SinhNhat\bin\Debug\SinhNhat.exe.config
+D:\c#\new\SinhNhat\bin\Debug\SinhNhat.exe
+D:\c#\new\SinhNhat\bin\Debug\SinhNhat.pdb
+D:\c#\new\SinhNhat\obj\Debug\SinhNhat.exe
+D:\c#\new\SinhNhat\obj\Debug\SinhNhat.pdb

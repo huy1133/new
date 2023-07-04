@@ -1,0 +1,8 @@
+D:\c#\new\DocSoNguyen\bin\Debug\DocSoNguyen.exe.config
+D:\c#\new\DocSoNguyen\bin\Debug\DocSoNguyen.exe
+D:\c#\new\DocSoNguyen\bin\Debug\DocSoNguyen.pdb
+D:\c#\new\DocSoNguyen\obj\Debug\DocSoNguyen.csproj.AssemblyReference.cache
+D:\c#\new\DocSoNguyen\obj\Debug\DocSoNguyen.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\DocSoNguyen\obj\Debug\DocSoNguyen.csproj.CoreCompileInputs.cache
+D:\c#\new\DocSoNguyen\obj\Debug\DocSoNguyen.exe
+D:\c#\new\DocSoNguyen\obj\Debug\DocSoNguyen.pdb

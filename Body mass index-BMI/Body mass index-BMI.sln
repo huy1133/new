@@ -5,6 +5,10 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Body mass index-BMI", "Body mass index-BMI.csproj", "{443F8442-00B7-45C1-B598-FA176760A6CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocSoNguyen", "..\DocSoNguyen\DocSoNguyen.csproj", "{878D07EA-1AFC-4F6A-826A-43FCDB274566}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinhNhat", "..\SinhNhat\SinhNhat.csproj", "{5945402D-FEBA-4262-A957-671BA84233C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{443F8442-00B7-45C1-B598-FA176760A6CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{443F8442-00B7-45C1-B598-FA176760A6CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{443F8442-00B7-45C1-B598-FA176760A6CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{878D07EA-1AFC-4F6A-826A-43FCDB274566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{878D07EA-1AFC-4F6A-826A-43FCDB274566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{878D07EA-1AFC-4F6A-826A-43FCDB274566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{878D07EA-1AFC-4F6A-826A-43FCDB274566}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5945402D-FEBA-4262-A957-671BA84233C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5945402D-FEBA-4262-A957-671BA84233C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5945402D-FEBA-4262-A957-671BA84233C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5945402D-FEBA-4262-A957-671BA84233C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
