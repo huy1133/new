@@ -19,35 +19,41 @@ namespace DocSoNguyen
             Console.Write("Enter Number ");
             int n = int.Parse(Console.ReadLine());
 
-            if (n < 10)
+            string num = "";
+            int temp, a;
+            temp = n;
+            a = temp / 100;
+            temp %= 100;
+            
+            if (a > 0)
+                num += number1[a - 1] + " " + Hundred + " ";
+
+            if (temp < 10 && temp>0)
             {
-                Console.WriteLine(number1[n - 1]);
+                num += number1[temp - 1];
             }
-            else if(n < 20)
+            else if (temp < 20 && temp > 0)
             {
-                Console.WriteLine(number2[n - 10]);
+                num += number2[temp - 10];
             }
-            else 
+            else
             {
-                string num = "";
-                int temp, a, b, c;
-                temp = n;
-                a = temp % 10;
-                temp/= 10;
-                b = temp % 10;
-                temp /= 10;
-                c = temp % 10;
-                if (c > 0)
-                    num += number1[c - 1] +" "+ Hundred+" ";
-                if (b > 0) {
-                    num += number3[b - 2];
-                    if (a > 0)
-                        num += "-";
-                 }
+                a = temp / 10;
+                temp %= 10;
                 if (a > 0)
-                    num += number1[a - 1];
-                Console.WriteLine(num);
+                {
+                    num += number3[a - 2];
+                    if (temp> 0)
+                        num += "-";
+                }
+                if (temp > 0)
+                    num += number1[temp - 1];
             }
+
+           
+            Console.WriteLine(num);
+
+           
             
         }
     }
