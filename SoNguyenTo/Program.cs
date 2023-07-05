@@ -18,7 +18,7 @@ namespace SoNguyenTo
         }
         static int check(int n)
         {
-            if (n < 2)
+            if (n <= 2)
             {
                 Console.WriteLine(n + " is not a prime");
                 return 0;
