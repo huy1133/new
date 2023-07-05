@@ -1,0 +1,8 @@
+D:\c#\new\Draw2\bin\Debug\Draw2.exe.config
+D:\c#\new\Draw2\bin\Debug\Draw2.exe
+D:\c#\new\Draw2\bin\Debug\Draw2.pdb
+D:\c#\new\Draw2\obj\Debug\Draw2.csproj.AssemblyReference.cache
+D:\c#\new\Draw2\obj\Debug\Draw2.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\Draw2\obj\Debug\Draw2.csproj.CoreCompileInputs.cache
+D:\c#\new\Draw2\obj\Debug\Draw2.exe
+D:\c#\new\Draw2\obj\Debug\Draw2.pdb
