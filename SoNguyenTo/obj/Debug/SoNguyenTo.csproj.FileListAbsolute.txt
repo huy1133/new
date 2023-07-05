@@ -1,0 +1,8 @@
+D:\c#\new\SoNguyenTo\bin\Debug\SoNguyenTo.exe.config
+D:\c#\new\SoNguyenTo\bin\Debug\SoNguyenTo.exe
+D:\c#\new\SoNguyenTo\bin\Debug\SoNguyenTo.pdb
+D:\c#\new\SoNguyenTo\obj\Debug\SoNguyenTo.csproj.AssemblyReference.cache
+D:\c#\new\SoNguyenTo\obj\Debug\SoNguyenTo.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\SoNguyenTo\obj\Debug\SoNguyenTo.csproj.CoreCompileInputs.cache
+D:\c#\new\SoNguyenTo\obj\Debug\SoNguyenTo.exe
+D:\c#\new\SoNguyenTo\obj\Debug\SoNguyenTo.pdb
