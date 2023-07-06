@@ -1,0 +1,8 @@
+D:\c#\new\UCLN\bin\Debug\UCLN.exe.config
+D:\c#\new\UCLN\bin\Debug\UCLN.exe
+D:\c#\new\UCLN\bin\Debug\UCLN.pdb
+D:\c#\new\UCLN\obj\Debug\UCLN.csproj.AssemblyReference.cache
+D:\c#\new\UCLN\obj\Debug\UCLN.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\UCLN\obj\Debug\UCLN.csproj.CoreCompileInputs.cache
+D:\c#\new\UCLN\obj\Debug\UCLN.exe
+D:\c#\new\UCLN\obj\Debug\UCLN.pdb

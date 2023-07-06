@@ -1,0 +1,8 @@
+D:\c#\new\BCC\bin\Debug\BCC.exe.config
+D:\c#\new\BCC\bin\Debug\BCC.exe
+D:\c#\new\BCC\bin\Debug\BCC.pdb
+D:\c#\new\BCC\obj\Debug\BCC.csproj.AssemblyReference.cache
+D:\c#\new\BCC\obj\Debug\BCC.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\BCC\obj\Debug\BCC.csproj.CoreCompileInputs.cache
+D:\c#\new\BCC\obj\Debug\BCC.exe
+D:\c#\new\BCC\obj\Debug\BCC.pdb
