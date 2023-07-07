@@ -1,0 +1,8 @@
+D:\c#\new\ThuNghiem\bin\Debug\ThuNghiem.exe.config
+D:\c#\new\ThuNghiem\bin\Debug\ThuNghiem.exe
+D:\c#\new\ThuNghiem\bin\Debug\ThuNghiem.pdb
+D:\c#\new\ThuNghiem\obj\Debug\ThuNghiem.csproj.AssemblyReference.cache
+D:\c#\new\ThuNghiem\obj\Debug\ThuNghiem.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\ThuNghiem\obj\Debug\ThuNghiem.csproj.CoreCompileInputs.cache
+D:\c#\new\ThuNghiem\obj\Debug\ThuNghiem.exe
+D:\c#\new\ThuNghiem\obj\Debug\ThuNghiem.pdb
