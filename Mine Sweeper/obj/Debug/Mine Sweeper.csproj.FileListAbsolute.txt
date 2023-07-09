@@ -1,0 +1,8 @@
+D:\c#\new\Mine Sweeper\bin\Debug\Mine Sweeper.exe.config
+D:\c#\new\Mine Sweeper\bin\Debug\Mine Sweeper.exe
+D:\c#\new\Mine Sweeper\bin\Debug\Mine Sweeper.pdb
+D:\c#\new\Mine Sweeper\obj\Debug\Mine Sweeper.csproj.AssemblyReference.cache
+D:\c#\new\Mine Sweeper\obj\Debug\Mine Sweeper.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\Mine Sweeper\obj\Debug\Mine Sweeper.csproj.CoreCompileInputs.cache
+D:\c#\new\Mine Sweeper\obj\Debug\Mine Sweeper.exe
+D:\c#\new\Mine Sweeper\obj\Debug\Mine Sweeper.pdb
