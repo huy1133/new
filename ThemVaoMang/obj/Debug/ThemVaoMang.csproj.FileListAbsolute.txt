@@ -1,0 +1,8 @@
+D:\c#\new\ThemVaoMang\bin\Debug\ThemVaoMang.exe.config
+D:\c#\new\ThemVaoMang\bin\Debug\ThemVaoMang.exe
+D:\c#\new\ThemVaoMang\bin\Debug\ThemVaoMang.pdb
+D:\c#\new\ThemVaoMang\obj\Debug\ThemVaoMang.csproj.AssemblyReference.cache
+D:\c#\new\ThemVaoMang\obj\Debug\ThemVaoMang.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\ThemVaoMang\obj\Debug\ThemVaoMang.csproj.CoreCompileInputs.cache
+D:\c#\new\ThemVaoMang\obj\Debug\ThemVaoMang.exe
+D:\c#\new\ThemVaoMang\obj\Debug\ThemVaoMang.pdb
