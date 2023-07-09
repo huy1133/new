@@ -1,0 +1,8 @@
+D:\c#\new\TongMaTran\bin\Debug\TongMaTran.exe.config
+D:\c#\new\TongMaTran\bin\Debug\TongMaTran.exe
+D:\c#\new\TongMaTran\bin\Debug\TongMaTran.pdb
+D:\c#\new\TongMaTran\obj\Debug\TongMaTran.csproj.AssemblyReference.cache
+D:\c#\new\TongMaTran\obj\Debug\TongMaTran.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\TongMaTran\obj\Debug\TongMaTran.csproj.CoreCompileInputs.cache
+D:\c#\new\TongMaTran\obj\Debug\TongMaTran.exe
+D:\c#\new\TongMaTran\obj\Debug\TongMaTran.pdb

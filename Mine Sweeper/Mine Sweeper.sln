@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThemVaoMang", "..\ThemVaoMa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoLonNhatTrongmatran", "..\SoLonNhatTrongmatran\SoLonNhatTrongmatran.csproj", "{68DAE4C7-D134-4621-A4F9-56BA17FE7806}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TongMaTran", "..\TongMaTran\TongMaTran.csproj", "{2221AB1A-4EF8-46F6-AF2A-38CE5A1DA718}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{68DAE4C7-D134-4621-A4F9-56BA17FE7806}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68DAE4C7-D134-4621-A4F9-56BA17FE7806}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68DAE4C7-D134-4621-A4F9-56BA17FE7806}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2221AB1A-4EF8-46F6-AF2A-38CE5A1DA718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2221AB1A-4EF8-46F6-AF2A-38CE5A1DA718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2221AB1A-4EF8-46F6-AF2A-38CE5A1DA718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2221AB1A-4EF8-46F6-AF2A-38CE5A1DA718}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
