@@ -1,0 +1,8 @@
+D:\c#\new\SoLonNhatTrongmatran\bin\Debug\SoLonNhatTrongmatran.exe.config
+D:\c#\new\SoLonNhatTrongmatran\bin\Debug\SoLonNhatTrongmatran.exe
+D:\c#\new\SoLonNhatTrongmatran\bin\Debug\SoLonNhatTrongmatran.pdb
+D:\c#\new\SoLonNhatTrongmatran\obj\Debug\SoLonNhatTrongmatran.csproj.AssemblyReference.cache
+D:\c#\new\SoLonNhatTrongmatran\obj\Debug\SoLonNhatTrongmatran.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\SoLonNhatTrongmatran\obj\Debug\SoLonNhatTrongmatran.csproj.CoreCompileInputs.cache
+D:\c#\new\SoLonNhatTrongmatran\obj\Debug\SoLonNhatTrongmatran.exe
+D:\c#\new\SoLonNhatTrongmatran\obj\Debug\SoLonNhatTrongmatran.pdb
