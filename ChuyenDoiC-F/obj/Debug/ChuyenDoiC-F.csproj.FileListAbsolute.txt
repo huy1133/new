@@ -1,0 +1,8 @@
+D:\c#\new\ChuyenDoiC-F\bin\Debug\ChuyenDoiC-F.exe.config
+D:\c#\new\ChuyenDoiC-F\bin\Debug\ChuyenDoiC-F.exe
+D:\c#\new\ChuyenDoiC-F\bin\Debug\ChuyenDoiC-F.pdb
+D:\c#\new\ChuyenDoiC-F\obj\Debug\ChuyenDoiC-F.csproj.AssemblyReference.cache
+D:\c#\new\ChuyenDoiC-F\obj\Debug\ChuyenDoiC-F.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\ChuyenDoiC-F\obj\Debug\ChuyenDoiC-F.csproj.CoreCompileInputs.cache
+D:\c#\new\ChuyenDoiC-F\obj\Debug\ChuyenDoiC-F.exe
+D:\c#\new\ChuyenDoiC-F\obj\Debug\ChuyenDoiC-F.pdb
