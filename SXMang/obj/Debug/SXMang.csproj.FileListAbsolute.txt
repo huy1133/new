@@ -1,0 +1,8 @@
+D:\c#\new\SXMang\bin\Debug\SXMang.exe.config
+D:\c#\new\SXMang\bin\Debug\SXMang.exe
+D:\c#\new\SXMang\bin\Debug\SXMang.pdb
+D:\c#\new\SXMang\obj\Debug\SXMang.csproj.AssemblyReference.cache
+D:\c#\new\SXMang\obj\Debug\SXMang.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\SXMang\obj\Debug\SXMang.csproj.CoreCompileInputs.cache
+D:\c#\new\SXMang\obj\Debug\SXMang.exe
+D:\c#\new\SXMang\obj\Debug\SXMang.pdb
