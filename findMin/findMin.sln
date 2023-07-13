@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "findMin", "findMin.csproj", "{9E04594B-FB7A-4318-B842-F588298E470D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XoaPhanTu", "..\XoaPhanTu\XoaPhanTu.csproj", "{39831FB6-819D-4598-B08B-D2F6CD100D6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9E04594B-FB7A-4318-B842-F588298E470D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E04594B-FB7A-4318-B842-F588298E470D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E04594B-FB7A-4318-B842-F588298E470D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39831FB6-819D-4598-B08B-D2F6CD100D6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39831FB6-819D-4598-B08B-D2F6CD100D6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39831FB6-819D-4598-B08B-D2F6CD100D6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39831FB6-819D-4598-B08B-D2F6CD100D6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

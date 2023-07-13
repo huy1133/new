@@ -14,6 +14,7 @@ namespace findMin
             int n=10;
             int[] arr = new int[n];
             Create(arr);
+            Console.WriteLine("So Nho Nhat La {0} O Vi Tri {1}", arr[findmin(arr)], findmin(arr));
         }
         public static void Create(int[] arr)
         {
@@ -22,7 +23,7 @@ namespace findMin
             {
                 arr[i] = rnd.Next(1,20);
             }
-            Console.WriteLine("So Nho Nhat La {0} O Vi Tri {1}", arr[findmin(arr)], findmin(arr));
+           
         }
         public static int findmin(int[] arr)
         {

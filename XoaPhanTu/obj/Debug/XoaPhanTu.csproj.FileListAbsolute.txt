@@ -1,0 +1,8 @@
+D:\c#\new\XoaPhanTu\bin\Debug\XoaPhanTu.exe.config
+D:\c#\new\XoaPhanTu\bin\Debug\XoaPhanTu.exe
+D:\c#\new\XoaPhanTu\bin\Debug\XoaPhanTu.pdb
+D:\c#\new\XoaPhanTu\obj\Debug\XoaPhanTu.csproj.AssemblyReference.cache
+D:\c#\new\XoaPhanTu\obj\Debug\XoaPhanTu.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\XoaPhanTu\obj\Debug\XoaPhanTu.csproj.CoreCompileInputs.cache
+D:\c#\new\XoaPhanTu\obj\Debug\XoaPhanTu.exe
+D:\c#\new\XoaPhanTu\obj\Debug\XoaPhanTu.pdb
