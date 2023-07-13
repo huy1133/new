@@ -1,0 +1,8 @@
+D:\c#\new\DemKiTu\bin\Debug\DemKiTu.exe.config
+D:\c#\new\DemKiTu\bin\Debug\DemKiTu.exe
+D:\c#\new\DemKiTu\bin\Debug\DemKiTu.pdb
+D:\c#\new\DemKiTu\obj\Debug\DemKiTu.csproj.AssemblyReference.cache
+D:\c#\new\DemKiTu\obj\Debug\DemKiTu.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\DemKiTu\obj\Debug\DemKiTu.csproj.CoreCompileInputs.cache
+D:\c#\new\DemKiTu\obj\Debug\DemKiTu.exe
+D:\c#\new\DemKiTu\obj\Debug\DemKiTu.pdb
