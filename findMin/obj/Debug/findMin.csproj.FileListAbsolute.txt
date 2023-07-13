@@ -1,0 +1,8 @@
+D:\c#\new\findMin\bin\Debug\findMin.exe.config
+D:\c#\new\findMin\bin\Debug\findMin.exe
+D:\c#\new\findMin\bin\Debug\findMin.pdb
+D:\c#\new\findMin\obj\Debug\findMin.csproj.AssemblyReference.cache
+D:\c#\new\findMin\obj\Debug\findMin.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\findMin\obj\Debug\findMin.csproj.CoreCompileInputs.cache
+D:\c#\new\findMin\obj\Debug\findMin.exe
+D:\c#\new\findMin\obj\Debug\findMin.pdb
