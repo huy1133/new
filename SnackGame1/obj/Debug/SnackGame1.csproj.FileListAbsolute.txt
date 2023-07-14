@@ -1,0 +1,8 @@
+D:\c#\new\SnackGame1\bin\Debug\SnackGame1.exe.config
+D:\c#\new\SnackGame1\bin\Debug\SnackGame1.exe
+D:\c#\new\SnackGame1\bin\Debug\SnackGame1.pdb
+D:\c#\new\SnackGame1\obj\Debug\SnackGame1.csproj.AssemblyReference.cache
+D:\c#\new\SnackGame1\obj\Debug\SnackGame1.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\SnackGame1\obj\Debug\SnackGame1.csproj.CoreCompileInputs.cache
+D:\c#\new\SnackGame1\obj\Debug\SnackGame1.exe
+D:\c#\new\SnackGame1\obj\Debug\SnackGame1.pdb
