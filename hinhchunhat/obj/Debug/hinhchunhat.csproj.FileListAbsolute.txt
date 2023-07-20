@@ -1,0 +1,8 @@
+D:\c#\new\hinhchunhat\bin\Debug\hinhchunhat.exe.config
+D:\c#\new\hinhchunhat\bin\Debug\hinhchunhat.exe
+D:\c#\new\hinhchunhat\bin\Debug\hinhchunhat.pdb
+D:\c#\new\hinhchunhat\obj\Debug\hinhchunhat.csproj.AssemblyReference.cache
+D:\c#\new\hinhchunhat\obj\Debug\hinhchunhat.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\hinhchunhat\obj\Debug\hinhchunhat.csproj.CoreCompileInputs.cache
+D:\c#\new\hinhchunhat\obj\Debug\hinhchunhat.exe
+D:\c#\new\hinhchunhat\obj\Debug\hinhchunhat.pdb
