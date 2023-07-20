@@ -1,0 +1,8 @@
+D:\c#\new\[Bài tập] Lớp Circle và lớp Cylinder\bin\Debug\[Bài tập] Lớp Circle và lớp Cylinder.exe.config
+D:\c#\new\[Bài tập] Lớp Circle và lớp Cylinder\bin\Debug\[Bài tập] Lớp Circle và lớp Cylinder.exe
+D:\c#\new\[Bài tập] Lớp Circle và lớp Cylinder\bin\Debug\[Bài tập] Lớp Circle và lớp Cylinder.pdb
+D:\c#\new\[Bài tập] Lớp Circle và lớp Cylinder\obj\Debug\[Bài tập] Lớp Circle và lớp Cylinder.csproj.AssemblyReference.cache
+D:\c#\new\[Bài tập] Lớp Circle và lớp Cylinder\obj\Debug\[Bài tập] Lớp Circle và lớp Cylinder.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\[Bài tập] Lớp Circle và lớp Cylinder\obj\Debug\[Bài tập] Lớp Circle và lớp Cylinder.csproj.CoreCompileInputs.cache
+D:\c#\new\[Bài tập] Lớp Circle và lớp Cylinder\obj\Debug\[Bài tập] Lớp Circle và lớp Cylinder.exe
+D:\c#\new\[Bài tập] Lớp Circle và lớp Cylinder\obj\Debug\[Bài tập] Lớp Circle và lớp Cylinder.pdb
