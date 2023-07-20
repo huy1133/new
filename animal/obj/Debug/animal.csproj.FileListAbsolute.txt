@@ -1,0 +1,8 @@
+D:\c#\new\animal\bin\Debug\animal.exe.config
+D:\c#\new\animal\bin\Debug\animal.exe
+D:\c#\new\animal\bin\Debug\animal.pdb
+D:\c#\new\animal\obj\Debug\animal.csproj.AssemblyReference.cache
+D:\c#\new\animal\obj\Debug\animal.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\animal\obj\Debug\animal.csproj.CoreCompileInputs.cache
+D:\c#\new\animal\obj\Debug\animal.exe
+D:\c#\new\animal\obj\Debug\animal.pdb
