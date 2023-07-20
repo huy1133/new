@@ -8,8 +8,17 @@ namespace animal
 {
     public abstract class animal
     {
-        protected string weight { get; set; }
-        protected string height { get; set; }
+        protected string weight;
+        protected string height;
+
+        public string Height
+        {
+            get => height; set => height = value;
+        }
+        public string Weight
+        {
+            get => weight; set => weight = value;
+        }
 
         public animal(string weight = "", string height = "")
         {
@@ -40,6 +49,7 @@ namespace animal
         {
             cat lulu = new cat("20kg", "1.5", "lulu");
             lulu.PrintInfo();
+            
         }
     }
 }

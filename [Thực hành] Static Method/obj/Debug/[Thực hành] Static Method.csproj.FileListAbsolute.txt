@@ -1,0 +1,8 @@
+D:\c#\new\[Thực hành] Static Method\bin\Debug\[Thực hành] Static Method.exe.config
+D:\c#\new\[Thực hành] Static Method\bin\Debug\[Thực hành] Static Method.exe
+D:\c#\new\[Thực hành] Static Method\bin\Debug\[Thực hành] Static Method.pdb
+D:\c#\new\[Thực hành] Static Method\obj\Debug\[Thực hành] Static Method.csproj.AssemblyReference.cache
+D:\c#\new\[Thực hành] Static Method\obj\Debug\[Thực hành] Static Method.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\[Thực hành] Static Method\obj\Debug\[Thực hành] Static Method.csproj.CoreCompileInputs.cache
+D:\c#\new\[Thực hành] Static Method\obj\Debug\[Thực hành] Static Method.exe
+D:\c#\new\[Thực hành] Static Method\obj\Debug\[Thực hành] Static Method.pdb

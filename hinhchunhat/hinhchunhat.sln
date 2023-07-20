@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hinhchunhat", "hinhchunhat.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "animal", "..\animal\animal.csproj", "{36F45738-348B-46C6-91C2-A807546E9418}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[Thực hành] Static Method", "..\[Thực hành] Static Method\[Thực hành] Static Method.csproj", "{586CAA5E-DED4-484C-B1C4-86637A826E63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{36F45738-348B-46C6-91C2-A807546E9418}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36F45738-348B-46C6-91C2-A807546E9418}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36F45738-348B-46C6-91C2-A807546E9418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{586CAA5E-DED4-484C-B1C4-86637A826E63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{586CAA5E-DED4-484C-B1C4-86637A826E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{586CAA5E-DED4-484C-B1C4-86637A826E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{586CAA5E-DED4-484C-B1C4-86637A826E63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
