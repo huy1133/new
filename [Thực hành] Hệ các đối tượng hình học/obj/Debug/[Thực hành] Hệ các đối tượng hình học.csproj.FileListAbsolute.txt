@@ -1,0 +1,8 @@
+D:\c#\new\[Thực hành] Hệ các đối tượng hình học\bin\Debug\[Thực hành] Hệ các đối tượng hình học.exe.config
+D:\c#\new\[Thực hành] Hệ các đối tượng hình học\bin\Debug\[Thực hành] Hệ các đối tượng hình học.exe
+D:\c#\new\[Thực hành] Hệ các đối tượng hình học\bin\Debug\[Thực hành] Hệ các đối tượng hình học.pdb
+D:\c#\new\[Thực hành] Hệ các đối tượng hình học\obj\Debug\[Thực hành] Hệ các đối tượng hình học.csproj.AssemblyReference.cache
+D:\c#\new\[Thực hành] Hệ các đối tượng hình học\obj\Debug\[Thực hành] Hệ các đối tượng hình học.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\[Thực hành] Hệ các đối tượng hình học\obj\Debug\[Thực hành] Hệ các đối tượng hình học.csproj.CoreCompileInputs.cache
+D:\c#\new\[Thực hành] Hệ các đối tượng hình học\obj\Debug\[Thực hành] Hệ các đối tượng hình học.exe
+D:\c#\new\[Thực hành] Hệ các đối tượng hình học\obj\Debug\[Thực hành] Hệ các đối tượng hình học.pdb
