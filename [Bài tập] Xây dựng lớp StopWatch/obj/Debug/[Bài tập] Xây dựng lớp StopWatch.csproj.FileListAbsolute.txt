@@ -1,0 +1,8 @@
+D:\c#\new\[Bài tập] Xây dựng lớp StopWatch\bin\Debug\[Bài tập] Xây dựng lớp StopWatch.exe.config
+D:\c#\new\[Bài tập] Xây dựng lớp StopWatch\bin\Debug\[Bài tập] Xây dựng lớp StopWatch.exe
+D:\c#\new\[Bài tập] Xây dựng lớp StopWatch\bin\Debug\[Bài tập] Xây dựng lớp StopWatch.pdb
+D:\c#\new\[Bài tập] Xây dựng lớp StopWatch\obj\Debug\[Bài tập] Xây dựng lớp StopWatch.csproj.AssemblyReference.cache
+D:\c#\new\[Bài tập] Xây dựng lớp StopWatch\obj\Debug\[Bài tập] Xây dựng lớp StopWatch.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\[Bài tập] Xây dựng lớp StopWatch\obj\Debug\[Bài tập] Xây dựng lớp StopWatch.csproj.CoreCompileInputs.cache
+D:\c#\new\[Bài tập] Xây dựng lớp StopWatch\obj\Debug\[Bài tập] Xây dựng lớp StopWatch.exe
+D:\c#\new\[Bài tập] Xây dựng lớp StopWatch\obj\Debug\[Bài tập] Xây dựng lớp StopWatch.pdb
