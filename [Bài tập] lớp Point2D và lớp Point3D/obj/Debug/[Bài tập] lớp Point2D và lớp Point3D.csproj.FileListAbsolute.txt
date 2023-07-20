@@ -1,0 +1,8 @@
+D:\c#\new\[Bài tập] lớp Point2D và lớp Point3D\obj\Debug\[Bài tập] lớp Point2D và lớp Point3D.csproj.AssemblyReference.cache
+D:\c#\new\[Bài tập] lớp Point2D và lớp Point3D\obj\Debug\[Bài tập] lớp Point2D và lớp Point3D.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\[Bài tập] lớp Point2D và lớp Point3D\obj\Debug\[Bài tập] lớp Point2D và lớp Point3D.csproj.CoreCompileInputs.cache
+D:\c#\new\[Bài tập] lớp Point2D và lớp Point3D\bin\Debug\[Bài tập] lớp Point2D và lớp Point3D.exe.config
+D:\c#\new\[Bài tập] lớp Point2D và lớp Point3D\bin\Debug\[Bài tập] lớp Point2D và lớp Point3D.exe
+D:\c#\new\[Bài tập] lớp Point2D và lớp Point3D\bin\Debug\[Bài tập] lớp Point2D và lớp Point3D.pdb
+D:\c#\new\[Bài tập] lớp Point2D và lớp Point3D\obj\Debug\[Bài tập] lớp Point2D và lớp Point3D.exe
+D:\c#\new\[Bài tập] lớp Point2D và lớp Point3D\obj\Debug\[Bài tập] lớp Point2D và lớp Point3D.pdb
