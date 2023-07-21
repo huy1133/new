@@ -1,0 +1,8 @@
+D:\c#\new\[Thực hành] lớp Animal và interface Edible\bin\Debug\[Thực hành] lớp Animal và interface Edible.exe.config
+D:\c#\new\[Thực hành] lớp Animal và interface Edible\bin\Debug\[Thực hành] lớp Animal và interface Edible.exe
+D:\c#\new\[Thực hành] lớp Animal và interface Edible\bin\Debug\[Thực hành] lớp Animal và interface Edible.pdb
+D:\c#\new\[Thực hành] lớp Animal và interface Edible\obj\Debug\[Thực hành] lớp Animal và interface Edible.csproj.AssemblyReference.cache
+D:\c#\new\[Thực hành] lớp Animal và interface Edible\obj\Debug\[Thực hành] lớp Animal và interface Edible.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\[Thực hành] lớp Animal và interface Edible\obj\Debug\[Thực hành] lớp Animal và interface Edible.csproj.CoreCompileInputs.cache
+D:\c#\new\[Thực hành] lớp Animal và interface Edible\obj\Debug\[Thực hành] lớp Animal và interface Edible.exe
+D:\c#\new\[Thực hành] lớp Animal và interface Edible\obj\Debug\[Thực hành] lớp Animal và interface Edible.pdb
