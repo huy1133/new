@@ -1,0 +1,8 @@
+D:\c#\new\[Bài tập] Xây dựng lớp Fan\bin\Debug\[Bài tập] Xây dựng lớp Fan.exe.config
+D:\c#\new\[Bài tập] Xây dựng lớp Fan\bin\Debug\[Bài tập] Xây dựng lớp Fan.exe
+D:\c#\new\[Bài tập] Xây dựng lớp Fan\bin\Debug\[Bài tập] Xây dựng lớp Fan.pdb
+D:\c#\new\[Bài tập] Xây dựng lớp Fan\obj\Debug\[Bài tập] Xây dựng lớp Fan.csproj.AssemblyReference.cache
+D:\c#\new\[Bài tập] Xây dựng lớp Fan\obj\Debug\[Bài tập] Xây dựng lớp Fan.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\[Bài tập] Xây dựng lớp Fan\obj\Debug\[Bài tập] Xây dựng lớp Fan.csproj.CoreCompileInputs.cache
+D:\c#\new\[Bài tập] Xây dựng lớp Fan\obj\Debug\[Bài tập] Xây dựng lớp Fan.exe
+D:\c#\new\[Bài tập] Xây dựng lớp Fan\obj\Debug\[Bài tập] Xây dựng lớp Fan.pdb
