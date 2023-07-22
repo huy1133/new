@@ -1,0 +1,8 @@
+D:\c#\new\[Thực hành] triển khai interface ‘IComparable’ cho các lớp hình học\bin\Debug\[Thực hành] triển khai interface ‘IComparable’ cho các lớp hình học.exe.config
+D:\c#\new\[Thực hành] triển khai interface ‘IComparable’ cho các lớp hình học\bin\Debug\[Thực hành] triển khai interface ‘IComparable’ cho các lớp hình học.exe
+D:\c#\new\[Thực hành] triển khai interface ‘IComparable’ cho các lớp hình học\bin\Debug\[Thực hành] triển khai interface ‘IComparable’ cho các lớp hình học.pdb
+D:\c#\new\[Thực hành] triển khai interface ‘IComparable’ cho các lớp hình học\obj\Debug\[Thực hành] triển khai interface ‘IComparable’ cho các lớp hình học.csproj.AssemblyReference.cache
+D:\c#\new\[Thực hành] triển khai interface ‘IComparable’ cho các lớp hình học\obj\Debug\[Thực hành] triển khai interface ‘IComparable’ cho các lớp hình học.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\[Thực hành] triển khai interface ‘IComparable’ cho các lớp hình học\obj\Debug\[Thực hành] triển khai interface ‘IComparable’ cho các lớp hình học.csproj.CoreCompileInputs.cache
+D:\c#\new\[Thực hành] triển khai interface ‘IComparable’ cho các lớp hình học\obj\Debug\[Thực hành] triển khai interface ‘IComparable’ cho các lớp hình học.exe
+D:\c#\new\[Thực hành] triển khai interface ‘IComparable’ cho các lớp hình học\obj\Debug\[Thực hành] triển khai interface ‘IComparable’ cho các lớp hình học.pdb
