@@ -1,0 +1,8 @@
+D:\c#\new\[Bài tập] Triển khai interface ‘IColorable’ cho các lớp hình học\bin\Debug\[Bài tập] Triển khai interface ‘IColorable’ cho các lớp hình học.exe.config
+D:\c#\new\[Bài tập] Triển khai interface ‘IColorable’ cho các lớp hình học\bin\Debug\[Bài tập] Triển khai interface ‘IColorable’ cho các lớp hình học.exe
+D:\c#\new\[Bài tập] Triển khai interface ‘IColorable’ cho các lớp hình học\bin\Debug\[Bài tập] Triển khai interface ‘IColorable’ cho các lớp hình học.pdb
+D:\c#\new\[Bài tập] Triển khai interface ‘IColorable’ cho các lớp hình học\obj\Debug\[Bài tập] Triển khai interface ‘IColorable’ cho các lớp hình học.csproj.AssemblyReference.cache
+D:\c#\new\[Bài tập] Triển khai interface ‘IColorable’ cho các lớp hình học\obj\Debug\[Bài tập] Triển khai interface ‘IColorable’ cho các lớp hình học.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\[Bài tập] Triển khai interface ‘IColorable’ cho các lớp hình học\obj\Debug\[Bài tập] Triển khai interface ‘IColorable’ cho các lớp hình học.csproj.CoreCompileInputs.cache
+D:\c#\new\[Bài tập] Triển khai interface ‘IColorable’ cho các lớp hình học\obj\Debug\[Bài tập] Triển khai interface ‘IColorable’ cho các lớp hình học.exe
+D:\c#\new\[Bài tập] Triển khai interface ‘IColorable’ cho các lớp hình học\obj\Debug\[Bài tập] Triển khai interface ‘IColorable’ cho các lớp hình học.pdb

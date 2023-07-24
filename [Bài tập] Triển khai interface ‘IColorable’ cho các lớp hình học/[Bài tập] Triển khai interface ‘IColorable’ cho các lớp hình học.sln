@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[Bài tập] Triển khai interface ‘IColorable’ cho các lớp hình học", "[Bài tập] Triển khai interface ‘IColorable’ cho các lớp hình học.csproj", "{A3796B04-BBAB-4753-A4E1-DCB9C85CAFCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3796B04-BBAB-4753-A4E1-DCB9C85CAFCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3796B04-BBAB-4753-A4E1-DCB9C85CAFCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3796B04-BBAB-4753-A4E1-DCB9C85CAFCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3796B04-BBAB-4753-A4E1-DCB9C85CAFCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DABF2A95-EA9F-4738-8C6B-AA205EEC6190}
+	EndGlobalSection
+EndGlobal
