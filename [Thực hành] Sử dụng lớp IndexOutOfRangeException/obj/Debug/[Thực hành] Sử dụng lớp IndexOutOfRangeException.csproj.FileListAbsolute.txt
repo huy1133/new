@@ -1,0 +1,8 @@
+D:\c#\new\[Thực hành] Sử dụng lớp IndexOutOfRangeException\bin\Debug\[Thực hành] Sử dụng lớp IndexOutOfRangeException.exe.config
+D:\c#\new\[Thực hành] Sử dụng lớp IndexOutOfRangeException\bin\Debug\[Thực hành] Sử dụng lớp IndexOutOfRangeException.exe
+D:\c#\new\[Thực hành] Sử dụng lớp IndexOutOfRangeException\bin\Debug\[Thực hành] Sử dụng lớp IndexOutOfRangeException.pdb
+D:\c#\new\[Thực hành] Sử dụng lớp IndexOutOfRangeException\obj\Debug\[Thực hành] Sử dụng lớp IndexOutOfRangeException.csproj.AssemblyReference.cache
+D:\c#\new\[Thực hành] Sử dụng lớp IndexOutOfRangeException\obj\Debug\[Thực hành] Sử dụng lớp IndexOutOfRangeException.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\[Thực hành] Sử dụng lớp IndexOutOfRangeException\obj\Debug\[Thực hành] Sử dụng lớp IndexOutOfRangeException.csproj.CoreCompileInputs.cache
+D:\c#\new\[Thực hành] Sử dụng lớp IndexOutOfRangeException\obj\Debug\[Thực hành] Sử dụng lớp IndexOutOfRangeException.exe
+D:\c#\new\[Thực hành] Sử dụng lớp IndexOutOfRangeException\obj\Debug\[Thực hành] Sử dụng lớp IndexOutOfRangeException.pdb
