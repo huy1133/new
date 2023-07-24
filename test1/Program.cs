@@ -14,8 +14,10 @@ public class CircleComparator : IComparer<Circle>
         // for example, the radius.
         // Return a negative value if 'x' circle is smaller than 'y' circle,
         // a positive value if it's greater, and 0 if they are equal.
-
-        return x.Radius.CompareTo(y.Radius);
+        if(x.Radius < y.Radius) return -1;
+        else if(x.Radius > y.Radius) return 1; 
+        return 0;
+        //return x.Radius.CompareTo(y.Radius);
     }
 }
 
