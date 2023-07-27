@@ -1,0 +1,8 @@
+D:\c#\new\[Thực hành] Tính tổng các số trong file text\bin\Debug\[Thực hành] Tính tổng các số trong file text.exe.config
+D:\c#\new\[Thực hành] Tính tổng các số trong file text\bin\Debug\[Thực hành] Tính tổng các số trong file text.exe
+D:\c#\new\[Thực hành] Tính tổng các số trong file text\bin\Debug\[Thực hành] Tính tổng các số trong file text.pdb
+D:\c#\new\[Thực hành] Tính tổng các số trong file text\obj\Debug\[Thực hành] Tính tổng các số trong file text.csproj.AssemblyReference.cache
+D:\c#\new\[Thực hành] Tính tổng các số trong file text\obj\Debug\[Thực hành] Tính tổng các số trong file text.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\[Thực hành] Tính tổng các số trong file text\obj\Debug\[Thực hành] Tính tổng các số trong file text.csproj.CoreCompileInputs.cache
+D:\c#\new\[Thực hành] Tính tổng các số trong file text\obj\Debug\[Thực hành] Tính tổng các số trong file text.exe
+D:\c#\new\[Thực hành] Tính tổng các số trong file text\obj\Debug\[Thực hành] Tính tổng các số trong file text.pdb
