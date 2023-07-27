@@ -1,0 +1,8 @@
+D:\c#\new\python2-3\bin\Debug\python2-3.exe.config
+D:\c#\new\python2-3\bin\Debug\python2-3.exe
+D:\c#\new\python2-3\bin\Debug\python2-3.pdb
+D:\c#\new\python2-3\obj\Debug\python2-3.csproj.AssemblyReference.cache
+D:\c#\new\python2-3\obj\Debug\python2-3.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\python2-3\obj\Debug\python2-3.csproj.CoreCompileInputs.cache
+D:\c#\new\python2-3\obj\Debug\python2-3.exe
+D:\c#\new\python2-3\obj\Debug\python2-3.pdb
