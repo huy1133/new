@@ -87,13 +87,13 @@ namespace TicTacToe
             Random random = new Random();
             int randomIndex = random.Next(ints.Count);
 
-            // Lấy phần tử ngẫu nhiên từ List
+           
             int randomElement = ints[randomIndex];
 
-            // Xóa phần tử ngẫu nhiên khỏi List
+            
             ints.RemoveAt(randomIndex);
 
-            // In ra giá trị phần tử đã lấy ngẫu nhiên và đã xóa khỏi List
+            
             return randomElement;
         }
        
