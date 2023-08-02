@@ -1,0 +1,8 @@
+D:\c#\new\[Thực hành] Đọc ghi file XML\bin\Debug\[Thực hành] Đọc ghi file XML.exe.config
+D:\c#\new\[Thực hành] Đọc ghi file XML\bin\Debug\[Thực hành] Đọc ghi file XML.exe
+D:\c#\new\[Thực hành] Đọc ghi file XML\bin\Debug\[Thực hành] Đọc ghi file XML.pdb
+D:\c#\new\[Thực hành] Đọc ghi file XML\obj\Debug\[Thực hành] Đọc ghi file XML.csproj.AssemblyReference.cache
+D:\c#\new\[Thực hành] Đọc ghi file XML\obj\Debug\[Thực hành] Đọc ghi file XML.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\[Thực hành] Đọc ghi file XML\obj\Debug\[Thực hành] Đọc ghi file XML.csproj.CoreCompileInputs.cache
+D:\c#\new\[Thực hành] Đọc ghi file XML\obj\Debug\[Thực hành] Đọc ghi file XML.exe
+D:\c#\new\[Thực hành] Đọc ghi file XML\obj\Debug\[Thực hành] Đọc ghi file XML.pdb
