@@ -1,0 +1,27 @@
+$accessToken = "50%3A2649-2F23s5fFw%3A2%3A1687088621%3A-1%3A6247%3A%3AAcWpc63T0_PF2bmEO6sMkTxHlUpc-PijiNcwjC593ps"
+$url = "https://graph.facebook.com/me?access_token=$accessToken"
+
+$response = Invoke-WebRequest -Uri $url -Method Get
+$response.Content
+
+50%3A2649-2F23s5fFw%3A2%3A1687088621%3A-1%3A6247%3A%3AAcWpc63T0_PF2bmEO6sMkTxHlUpc-PijiNcwjC593ps
+100038867952453
+curl -i -X GET "https://graph.facebook.com/{100038867952453}?access_token={50%3A2649-2F23s5fFw%3A2%3A1687088621%3A-1%3A6247%3A%3AAcWpc63T0_PF2bmEO6sMkTxHlUpc-PijiNcwjC593ps}"
+
+$token = "50%3A2649-2F23s5fFw%3A2%3A1687088621%3A-1%3A6247%3A%3AAcWpc63T0_PF2bmEO6sMkTxHlUpc-PijiNcwjC593ps"
+$user = "100038867952453"
+
+$url = "https://graph.facebook.com/$user?access_token=$token"
+$response = Invoke-RestMethod -Uri $url -Method Get
+
+# Xử lý kết quả trả về
+if ($response) {
+    # Đăng nhập thành công
+    Write-Host "Đăng nhập thành công"
+    # Tiếp tục thực hiện các hoạt động sau khi đã đăng nhập thành công
+} else {
+    # Đăng nhập thất bại
+    Write-Host "Đăng nhập thất bại"
+}
+
+	

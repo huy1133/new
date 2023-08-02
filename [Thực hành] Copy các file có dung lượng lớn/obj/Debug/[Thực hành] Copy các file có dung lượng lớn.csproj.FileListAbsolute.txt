@@ -1,0 +1,8 @@
+D:\c#\new\[Thực hành] Copy các file có dung lượng lớn\bin\Debug\[Thực hành] Copy các file có dung lượng lớn.exe.config
+D:\c#\new\[Thực hành] Copy các file có dung lượng lớn\bin\Debug\[Thực hành] Copy các file có dung lượng lớn.exe
+D:\c#\new\[Thực hành] Copy các file có dung lượng lớn\bin\Debug\[Thực hành] Copy các file có dung lượng lớn.pdb
+D:\c#\new\[Thực hành] Copy các file có dung lượng lớn\obj\Debug\[Thực hành] Copy các file có dung lượng lớn.csproj.AssemblyReference.cache
+D:\c#\new\[Thực hành] Copy các file có dung lượng lớn\obj\Debug\[Thực hành] Copy các file có dung lượng lớn.csproj.SuggestedBindingRedirects.cache
+D:\c#\new\[Thực hành] Copy các file có dung lượng lớn\obj\Debug\[Thực hành] Copy các file có dung lượng lớn.csproj.CoreCompileInputs.cache
+D:\c#\new\[Thực hành] Copy các file có dung lượng lớn\obj\Debug\[Thực hành] Copy các file có dung lượng lớn.exe
+D:\c#\new\[Thực hành] Copy các file có dung lượng lớn\obj\Debug\[Thực hành] Copy các file có dung lượng lớn.pdb
